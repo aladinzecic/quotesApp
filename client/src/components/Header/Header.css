@@ -1,0 +1,20 @@
+.head-div {
+  height: 15vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #093545;
+  border-bottom: 1px solid black;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.head-div h1 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 38px;
+}
+.head-div button {
+  padding: 10px 22px;
+  cursor: pointer;
+}
